@@ -1,0 +1,72 @@
+﻿  AI.cpp
+  CAnimation.cpp
+  CAnimator.cpp
+  CBtnUI.cpp
+  CCamera.cpp
+  CCollider.cpp
+  CCollisionMgr.cpp
+C:\Win32API\WinSong\WinSong\CCollisionMgr.cpp(48,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CCollisionMgr.cpp(49,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCore.cpp
+C:\Win32API\WinSong\WinSong\resource.h(16,1): warning C4005: 'IDCANCEL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,1): message : 'IDCANCEL'의 이전 정의를 참조하십시오.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEventMgr.cpp
+C:\Win32API\WinSong\WinSong\CEventMgr.cpp(30,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CEventMgr.cpp(44,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CGravity.cpp
+  CGround.cpp
+  CIdleState.cpp
+  CKeyMgr.cpp
+C:\Win32API\WinSong\WinSong\CKeyMgr.cpp(62,25): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  CMissile.cpp
+  CMonFactory.cpp
+  CMonster.cpp
+  CObject.cpp
+  CPanelUI.cpp
+  CPathMgr.cpp
+C:\Win32API\WinSong\WinSong\CPathMgr.cpp(23,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPlayer.cpp
+  CRes.cpp
+  CResMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Win32API\WinSong\WinSong\CResMgr.cpp(45,18): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Win32API\WinSong\WinSong\CResMgr.cpp(81,20): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  CRigidBody.cpp
+  CScene.cpp
+C:\Win32API\WinSong\WinSong\CScene.cpp(195,32): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Win32API\WinSong\WinSong\CScene.cpp(196,32): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Win32API\WinSong\WinSong\func.h(14,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CScene.cpp(100,2): message : 컴파일되는 함수 템플릿 인스턴스화 'void Safe_Delete_Vec<CObject*>(std::vector<CObject *,std::allocator<CObject *>> &)'에 대한 참조를 확인하세요.
+  CSceneMgr.cpp
+  CScene_Start.cpp
+C:\Win32API\WinSong\WinSong\CScene_Start.cpp(217,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CScene_Start.cpp(216,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CScene_Start.cpp(215,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CScene_Start.cpp(214,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CScene_Tool.cpp
+C:\Win32API\WinSong\WinSong\resource.h(16,1): warning C4005: 'IDCANCEL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,1): message : 'IDCANCEL'의 이전 정의를 참조하십시오.
+C:\Win32API\WinSong\WinSong\CScene_Tool.cpp(207,20): warning C4129: 'T': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Win32API\WinSong\WinSong\CScene_Tool.cpp(239,20): warning C4129: 'T': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  CSound.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CSoundMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CState.cpp
+  CTexture.cpp
+  CTile.cpp
+  CTimeMgr.cpp
+  CTraceState.cpp
+  CUI.cpp
+C:\Win32API\WinSong\WinSong\func.h(14,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Win32API\WinSong\WinSong\CUI.cpp(31,2): message : 컴파일되는 함수 템플릿 인스턴스화 'void Safe_Delete_Vec<CUI*>(std::vector<CUI *,std::allocator<CUI *>> &)'에 대한 참조를 확인하세요.
+  CUIMgr.cpp
+  func.cpp
+  SelectGDI.cpp
+  WinSong.cpp
+C:\Win32API\WinSong\WinSong\resource.h(16,1): warning C4005: 'IDCANCEL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,1): message : 'IDCANCEL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.rh(1433): warning RC4005: 'IDCANCEL' : redefinition
+  
+  WinSong.vcxproj -> C:\Win32API\WinSong\Output\bin_debug\WinSong.exe
